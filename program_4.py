@@ -10,6 +10,7 @@ def temp_conversion(celsius):
     fahrenheit = 0.0
     ######################
     # WRITE YOUR CODE HERE
+    fahrenheit = float((celsius * 9/5) + 32)
     ######################    
 
 
